@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <div className="gradient-bg min-h-screen">
       <Navbar />
-      <Hero />
+      <Hero /> 
       <About />
       <Skills />
       <Projects />
